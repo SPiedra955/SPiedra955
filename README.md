@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SPiedra955
 - 👀 I’m interested in programming and learning good routines to programm
 - 🌱 I’m currently in my first year of vocational training in development of applications web 
-- 📫 You can reach me with the email in my profile
+- 📫 You can reach me with this e-mail spiedramite@cifpfbmoll.eu
 
     ![giphy](https://user-images.githubusercontent.com/114516225/209246513-a0407991-dca4-4139-8d4e-9b2f6ce1ed47.gif)
 <!---
