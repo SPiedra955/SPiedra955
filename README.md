@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SPiedra955
+# 👋 Hi, I’m Samuel
 - 👀 I’m interested in programming and learning good routines to programm
 - 🌱 I’m currently in my first year of vocational training in development of applications web 
 - 📫 You can reach me with this e-mail spiedramite@cifpfbmoll.eu
