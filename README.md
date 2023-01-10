@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A student trying his best</h4>
-</br>
+
 <ul>
 <li>🌱 I’m currently in my first year of vocational training in development of applications web.</li>
 <li>🐾 This is profile where i started my first programmation exercises.</li>
