@@ -1,10 +1,22 @@
-# 👋 Hi, I’m Samuel
-- 👀 I’m interested in programming and learning good routines to programm
-- 🌱 I’m currently in my first year of vocational training in development of applications web 
-- 📫 You can reach me with this e-mail spiedramite@cifpfbmoll.eu
+<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h3 align="center">A student trying his best</h4>
+</br>
+<ul>
+<li>🌱 I’m currently in my first year of vocational training in development of applications web.</li>
+<li>🐾 This is profile where i started my first programmation exercises.</li>
+<li>👀 I’m interested in programming and learning good routines to programm.</li>
+<li>📫 You can reach me with this e-mail spiedramite@cifpfbmoll.eu</li>
+</ul>
+</br>
+<p align="center"><a href="https://github.com/SPiedra955/github-readme-stats" align="center"> <img src="https://user-images.githubusercontent.com/114516225/209246513-a0407991-dca4-4139-8d4e-9b2f6ce1ed47.gif"/> </a></p>
+</br>
+<h2 align="left">User stats</h1>
 
-    ![giphy](https://user-images.githubusercontent.com/114516225/209246513-a0407991-dca4-4139-8d4e-9b2f6ce1ed47.gif)
-<!---
-SPiedra955/SPiedra955 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><a href="https://github.com/SPiedra955/github-readme-stats" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SPiedra955&show_icons=true&theme=highcontrast&card_width=600px" alt="stats_user" width="max"/> </a></p>
+
+<p align="center"><a href="https://github.com/SPiedra955/github-readme-stats" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPiedra955&show_icons=true&theme=highcontrast&card_width=600px" alt="stats_user" width="600"/> </a></p>
+
+
+
+<h2 align="left">Languages</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> </p>
