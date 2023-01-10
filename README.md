@@ -5,14 +5,14 @@
 <li>🌱 I’m currently in my first year of vocational training in development of applications web.</li>
 <li>🐾 This is profile where i started my first programmation exercises.</li>
 <li>👀 I’m interested in programming and learning good routines to programm.</li>
-<li>📫 You can reach me with this e-mail spiedramite@cifpfbmoll.eu</li>
+<li>📫 You can reach me with this e-mail <a href="https://www.gmail.com/mail/help/intl/es/about.html?iframe" target="_blank">spiedramite@cifpfbmoll.eu</a></li>
 </ul>
 </br>
 <p align="center"><a href="https://github.com/SPiedra955/github-readme-stats" align="center"> <img src="https://user-images.githubusercontent.com/114516225/209246513-a0407991-dca4-4139-8d4e-9b2f6ce1ed47.gif"/> </a></p>
 </br>
 <h2 align="left">User stats</h1>
 
-<p align="center"><a href="https://github.com/SPiedra955/github-readme-stats" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SPiedra955&show_icons=true&theme=highcontrast&card_width=600px" alt="stats_user" width="max"/> </a></p>
+<p align="center"><a href="https://github.com/SPiedra955/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=SPiedra955&show_icons=true&theme=highcontrast&card_width=600px" alt="stats_user" width="max"/> </a></p>
 
 <p align="center"><a href="https://github.com/SPiedra955/github-readme-stats" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPiedra955&show_icons=true&theme=highcontrast&card_width=600px" alt="stats_user" width="600"/> </a></p>
 
