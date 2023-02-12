@@ -3,8 +3,9 @@
 
 <ul>
 <li>🌱 I’m currently in my first year of vocational training in development of applications web.</li>
-<li>🐾 This is profile where i started my first programmation exercises.</li>
-<li>👀 I’m interested in programming and learning good routines to programm.</li>
+<li>🐾 This is the git profile, where I started my first programmation exercises.</li>
+<li>👀 I’m interested in programming and learning good routines.</li>
+<li>🥅 Working hard for be a programmer.</li>
 <li>📫 You can reach me with this e-mail <a href="https://www.gmail.com/mail/help/intl/es/about.html?iframe" target="_blank">spiedramite@cifpfbmoll.eu</a></li>
 </ul>
 </br>
