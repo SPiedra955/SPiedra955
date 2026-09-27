@@ -9,7 +9,6 @@
   <a href="mailto:samup60@gmail.com">Email</a>
 </p>
 
----
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
@@ -24,7 +23,6 @@
 🚀 Focused on building production-oriented web applications
 </p>
 
----
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -45,7 +43,6 @@ AI recipe generation · JWT authentication · Recipe management ·
 Nutritional information · Meal planning · PostgreSQL
 </p>
 
----
 
 <h3 align="center">🛒 Dynamite App</h3>
 
@@ -64,7 +61,6 @@ Gemini AI · JWT authentication · Stripe payments · Cloudinary ·
 REST APIs · PostgreSQL
 </p>
 
----
 
 <h2 align="center">💻 Frontend</h2>
 
@@ -76,8 +72,6 @@ REST APIs · PostgreSQL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="60" alt="jQuery"/>
 </p>
-
----
 
 <h2 align="center">⚙️ Backend</h2>
 
@@ -91,7 +85,6 @@ REST APIs · PostgreSQL
 REST APIs · JWT Authentication · SQLAlchemy
 </p>
 
----
 
 <h2 align="center">🗄️ Databases</h2>
 
@@ -101,7 +94,6 @@ REST APIs · JWT Authentication · SQLAlchemy
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" alt="MongoDB"/>
 </p>
 
----
 
 <h2 align="center">🧰 Tools</h2>
 
@@ -112,7 +104,6 @@ REST APIs · JWT Authentication · SQLAlchemy
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" alt="Bash"/>
 </p>
 
----
 
 <h2 align="center">🤖 AI & Development</h2>
 
@@ -124,7 +115,6 @@ Building applications that integrate AI to provide personalized and practical us
 Gemini · AI-powered features · REST APIs · Full-Stack Applications
 </p>
 
----
 
 <h2 align="center">📈 Currently Improving</h2>
 
@@ -136,7 +126,6 @@ Gemini · AI-powered features · REST APIs · Full-Stack Applications
 📚 Deepening my knowledge of modern React and Python development
 </p>
 
----
 
 <h2 align="center">📫 Let's Connect</h2>
 
