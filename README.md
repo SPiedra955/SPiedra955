@@ -14,7 +14,7 @@
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
 <p align="center">
-💻 Junior Full-Stack Developer based in Palma, Spain<br/>
+💻 Full-Stack Developer based in Palma, Spain<br/>
 🎨 Professional experience in web design and website development<br/>
 ⚛️ Building applications with React and JavaScript<br/>
 🐍 Developing REST APIs with Python and Flask<br/>
